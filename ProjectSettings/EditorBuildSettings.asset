@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: f4115e77f9b213d46915b7ec2ecebc0c
+  - enabled: 0
+    path: Assets/Scenes/SnakeSolo.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Snake.unity
+    guid: 9ee20b2ec20e28942b94c4c71e296084
+  - enabled: 1
+    path: Assets/Scenes/MineClearance.unity
+    guid: e475422be687d854bb06a720d704cbfd
+  - enabled: 1
+    path: Assets/Scenes/Bnb.unity
+    guid: a8c4a7578ee747b41b0c49dd79b64163
+  - enabled: 1
+    path: Assets/Scenes/Tetris.unity
+    guid: 1334359370bb9414abf48a2b073ec991
+  m_configObjects: {}

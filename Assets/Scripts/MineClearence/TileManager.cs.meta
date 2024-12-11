@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 75e55f2bed070d5448fc1afae896eb8f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - grass: {fileID: -2135585597343286014, guid: 2141dddde3198d54faa85e2a4c7977eb, type: 3}
+  - dirt: {fileID: 21300000, guid: a29ca860ef3f36c42be197729ddb3ea1, type: 3}
+  - flag: {fileID: -2135585597343286014, guid: 45d3cd41b0e28154c8170310facdb12c, type: 3}
+  - mine: {instanceID: 0}
+  - explosion: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
